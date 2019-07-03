@@ -1,0 +1,5 @@
+\
+\ strid, ra1, dec1, ra2, dec2, ra1_err, dec1_err, corr1, ra2_err, dec2_err, corr2, start_mjd, end_mjd, flux, bg, length, sigma, length_err, sigma_err, pa_err, bg_err, fit_mag_err, ap_snr, ap_mag_err, dmag, dmag_err, chi2, numfit, prob
+\ null, deg, deg, deg, deg, deg, deg, null, deg, deg, null, days, days, dn, dn, pixels, pixels, pixels, pixels, deg, dn, mag, null, mag, mag, mag, null, null, null
+\
+1, 155.683946505, 13.5665602117, 155.680977811, 13.5628884314, 0.000513977010987, 0.000537217116452, 0.905944292313, 0.000513981854146, 0.000537223137892, 0.905946284563, 58154.3552546, 58154.3556018, 416.573398572, 18.6596039749, 16.6196558112, -1.10319261469, 3.803624494, 0.510262518836, 0.11421240254, 0.676492274458, 0.494858887934, 4.39484662336, 0.247047575901, 0.0100942358851, 0.553098385214, 1.259440981, 0, 0.000000
